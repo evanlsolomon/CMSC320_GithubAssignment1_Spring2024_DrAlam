@@ -1,0 +1,9 @@
+Prompt: Why are you interested in taking CMSC320?
+
+Answer:
+
+I am taking 320 because I want to be better prepared for the upper level machine learning courses.
+
+I hope that we will review the linear algebra and statistics concepts that are expected knowledge for the more advanced machine/deep learning courses.
+
+
